@@ -9,12 +9,11 @@
 Hop Miles is a **walking and running tracker** web app with a cute design. Track your walks, dress up your bunny companion, compete with friends on leaderboards, and virtually walk to real-world destinations.
 
 ### Features
-- **Walk Logging** — Track distance, duration, calories, and active minutes
-- **My Bunny** — Dress up your bunny with different colors, faces, and accessories
-- **Friends** — View friends' bunnies, stats, and recent activity
-- **Leaderboard** — Compete with friends and globally
-- **Virtual Destinations** — Walk to Paris, Tokyo, and more with progress tracking
-- **Settings** — Customize your profile, goals, and preferences
+- **Walk/Run Logging** Track distance, duration, and active minutes
+- **My Bunny** Dress up your bunny 
+- **Friends** View friends' bunnies, stats, and recent activity
+- **Leaderboard** Compete with friends and globally
+- **Virtual Destinations** Walk to Paris, Tokyo, and more 
 
 ---
 
@@ -73,21 +72,24 @@ Hop Miles is a **walking and running tracker** web app with a cute design. Track
 
 ---
 
-## Tech Stack
+## 🛠 Development & Versions
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![React Router](https://img.shields.io/badge/React_Router-7-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-2.89-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
-| Layer | Technology | Purpose |
-|-------|------------|---------|
-| **Frontend** | React 19 | Component-based UI |
-| **Build Tool** | Vite 6 | Fast dev server & bundling |
-| **Routing** | React Router 7 | Page navigation |
-| **Icons** | Animate UI + Lucide | Animated icon components |
-| **Animation** | Motion (Framer Motion) | Smooth transitions & effects |
-| **Styling** | Custom CSS | Kawaii-themed design system |
+# 📜 Version History
 
+| Version | Date | Highlights |
+|---------|------|------------|
+| **BETA** | Dec 2025 | Initial public release |
+| | | Flashcards with images & quiz mode |
+| | | To-do lists with due dates |
+| | | Focus timer with doodle breaks |
+| | | Statistics dashboard |
+| | | User authentication |
+| | | Cloud sync with Supabase |
 ---
 
 <div align="center">
