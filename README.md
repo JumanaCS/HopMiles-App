@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/assets/Images/Logo.png" width="400" />
+<img src="ReadMeImages/Logo.png" width="400" />
 
 </div>
 
