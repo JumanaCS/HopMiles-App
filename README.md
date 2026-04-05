@@ -9,7 +9,7 @@
 
 <div align="center">
  
-https://www.hopmiles.com
+www.hopmiles.com
 
 </div>
 
